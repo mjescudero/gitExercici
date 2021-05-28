@@ -1,1 +1,4 @@
+
+Aquest es el meu primer canvi per a branch 1
 El meu segon canvi al fitxer de text a master
+
